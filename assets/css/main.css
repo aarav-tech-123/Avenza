@@ -5157,6 +5157,9 @@ input:focus, input:focus-visible {
 .tw-pt-224-px {
     padding-block-start: 224px;
 }
+.tw-pt-120-px {
+    padding-block-start: 120px;
+}
 
 .tw-px-36-px {
     padding-inline: clamp(1rem, -1rem + 8vw, 2.25rem);
